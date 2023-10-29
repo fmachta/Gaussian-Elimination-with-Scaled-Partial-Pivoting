@@ -1,4 +1,4 @@
-** Gaussian Elimination with Scaled Partial Pivoting - Report**
+**Gaussian Elimination with Scaled Partial Pivoting - Report**
 
 **Objective:**
 To develop a C++ program that can solve a system of linear equations (up to 10 equations) using the Gaussian elimination method with scaled partial pivoting.
